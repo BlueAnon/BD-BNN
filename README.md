@@ -9,7 +9,7 @@
 This repository is a pytorch implementation of our paper [BD-BNN](https://arxiv.org/abs/2204.02004)
 
 <p align="center">
-  <img src="https://github.com/BlueAnon/BD-BNN/blob/master/dog_features.png" width="700" >
+  <img src="https://github.com/BlueAnon/BD-BNN/blob/master/image-bdbnn.png" width="700" >
 </p>
 
 
